@@ -1,12 +1,12 @@
 APClips
 Archive.org
-Blogger
-DeviantArt
+Carbonmade
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
@@ -14,13 +14,13 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
