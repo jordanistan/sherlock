@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Codolio
-Cracked Forum
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -26,6 +25,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
