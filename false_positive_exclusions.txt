@@ -1,8 +1,7 @@
 APClips
 Archive.org
-Audiojungle
+BitBucket
 Codolio
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -24,9 +23,9 @@ Smule
 Splice
 Spotify
 Strava
-Trovo
 TryHackMe
 Weblate
+WordPress
 YandexMusic
 mercadolivre
 opennet
