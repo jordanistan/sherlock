@@ -17,7 +17,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -30,4 +29,3 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
-xHamster
