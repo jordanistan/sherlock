@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Audiojungle
-Blogger
 Codolio
 DeviantArt
 DigitalSpy
@@ -10,16 +8,13 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -30,8 +25,8 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
