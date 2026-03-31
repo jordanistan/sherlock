@@ -1,14 +1,16 @@
+7Cups
 APClips
+Archive of Our Own
 Archive.org
 Codolio
 DeviantArt
-DigitalSpy
+Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
 Rarible
@@ -24,9 +26,11 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
