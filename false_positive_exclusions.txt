@@ -1,6 +1,5 @@
 7Cups
 APClips
-Archive of Our Own
 Archive.org
 Codolio
 DeviantArt
@@ -26,11 +25,9 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
