@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -8,8 +9,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
-Minecraft
+LessWrong
 Patched
 PocketStars
 Pornhub
@@ -25,7 +25,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
