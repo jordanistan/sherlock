@@ -4,15 +4,15 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
 Discord.bio
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
-Itch.io
 LessWrong
+LushStories
 Minecraft
 Patched
 Pornhub
@@ -20,13 +20,16 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
