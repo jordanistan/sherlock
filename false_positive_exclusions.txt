@@ -9,13 +9,12 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+Motherless
 Patched
 Pornhub
 Rarible
@@ -40,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
