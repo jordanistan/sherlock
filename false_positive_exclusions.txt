@@ -1,4 +1,6 @@
 7Cups
+APClips
+Academia.edu
 Airliners
 Apple Discussions
 Archive.org
@@ -12,11 +14,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
-Minecraft
 Motherless
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -39,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
