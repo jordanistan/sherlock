@@ -4,6 +4,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+CGTrader
 Codolio
 Discord.bio
 Envato Forum
@@ -11,9 +13,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Motherless
 Patched
 Rarible
 Realmeye
