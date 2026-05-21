@@ -8,14 +8,12 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 Rarible
 Realmeye
@@ -40,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
