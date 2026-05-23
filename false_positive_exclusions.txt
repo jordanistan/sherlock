@@ -1,12 +1,10 @@
 7Cups
 Airliners
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -19,14 +17,15 @@ Patched
 Rarible
 Realmeye
 Reddit
+Replit.com
 RocketTube
 Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
