@@ -6,9 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,6 +15,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Patched
 Pornhub
@@ -41,5 +40,5 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
-xHamster
