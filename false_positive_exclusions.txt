@@ -1,12 +1,13 @@
 7Cups
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,9 +16,7 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
-LushStories
 Minecraft
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -29,7 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
