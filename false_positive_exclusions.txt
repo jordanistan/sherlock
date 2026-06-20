@@ -16,6 +16,7 @@ Hubski
 LessWrong
 LushStories
 Odysee
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -28,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
