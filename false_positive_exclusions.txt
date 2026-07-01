@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+BreachSta.rs Forum
 Codolio
 Cults3D
 DeviantArt
@@ -16,9 +17,11 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
 Odysee
-OurDJTalk
+PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
