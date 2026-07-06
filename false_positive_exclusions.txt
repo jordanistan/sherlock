@@ -9,6 +9,7 @@ Bandcamp
 Blogger
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,12 +18,16 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
+NitroType
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
 Rarible
 Realmeye
+RedTube
 Reddit
 Replit.com
 RocketTube
@@ -31,10 +36,12 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
+YouPorn
 authorSTREAM
 dailykos
 igromania
