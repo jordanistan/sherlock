@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -18,16 +16,12 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LushStories
-NitroType
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
-RedTube
 Reddit
 Replit.com
 RocketTube
@@ -41,7 +35,6 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
-YouPorn
 authorSTREAM
 dailykos
 igromania
