@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,7 +11,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -18,7 +18,9 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -32,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -45,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
