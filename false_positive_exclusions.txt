@@ -8,11 +8,11 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
@@ -32,18 +32,16 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
-Wix
 YandexMusic
 authorSTREAM
 dailykos
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
