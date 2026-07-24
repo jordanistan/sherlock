@@ -16,10 +16,9 @@ Hubski
 LessWrong
 LinkedIn
 LushStories
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -33,7 +32,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
