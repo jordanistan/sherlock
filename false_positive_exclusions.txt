@@ -22,7 +22,6 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
-LushStories
 Odysee
 PCGamer
 Patched
@@ -31,12 +30,15 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -50,4 +52,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
