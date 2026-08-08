@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-CGTrader
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -39,10 +38,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
