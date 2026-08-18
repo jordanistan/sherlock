@@ -5,7 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -14,15 +14,14 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
-Outgress
 PCGamer
 Patched
 Rarible
@@ -36,13 +35,13 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
