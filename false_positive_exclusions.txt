@@ -6,9 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -24,7 +24,6 @@ LushStories
 Minecraft
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -37,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -53,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
