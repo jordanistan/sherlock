@@ -19,10 +19,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LushStories
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -46,6 +44,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
