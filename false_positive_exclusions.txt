@@ -19,6 +19,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
+LushStories
+Minecraft
 Odysee
 PCGamer
 Rarible
@@ -32,6 +34,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -44,7 +47,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
