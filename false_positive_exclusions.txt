@@ -21,8 +21,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
+Minecraft
+ObservableHQ
 Odysee
 PCGamer
 Pornhub
@@ -37,6 +40,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -52,3 +56,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
