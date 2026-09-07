@@ -19,7 +19,6 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
