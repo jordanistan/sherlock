@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -15,7 +16,6 @@ Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -26,11 +26,11 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
-Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -41,6 +41,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -49,7 +50,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
@@ -58,4 +58,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
