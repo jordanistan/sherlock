@@ -1,14 +1,15 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blipfoto
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -24,6 +25,8 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+NationStates Nation
+NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -45,7 +48,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
 mercadolivre
@@ -53,3 +55,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
