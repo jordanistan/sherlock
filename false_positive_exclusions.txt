@@ -8,6 +8,7 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -22,6 +23,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -35,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
