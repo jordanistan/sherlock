@@ -1,6 +1,5 @@
 APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -39,7 +38,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Strava
+TnAFlix
 TryHackMe
 Velomania
 Vero
