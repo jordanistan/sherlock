@@ -6,6 +6,7 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -20,7 +21,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -46,6 +47,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
