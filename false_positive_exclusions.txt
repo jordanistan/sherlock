@@ -3,7 +3,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -19,7 +18,6 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,6 +26,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
